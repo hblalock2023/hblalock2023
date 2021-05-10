@@ -2,7 +2,7 @@
 - 🎓 I'm a McNair Top Scholar and in the Honors College at UofSC. 
 - 🧠 I’m interested in neuroscience and computational biology. 
 - 🌱 I’m currently learning C++ and machine learning. 
-- 🔬 I’m looking to get involved in research regarding neuro degenerative diseases and artificial intelligence. 
+- 🔬 I’m looking to get involved in research regarding neurodegenerative diseases and artificial intelligence. 
 - 📫 How to reach me at my school email, hblalock@email.sc.edu. 
 
 <!---
